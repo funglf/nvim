@@ -19,7 +19,7 @@ o.winborder = "rounded"
 
 -- Colours
 o.termguicolors = true
-o.background = "dark"
+-- o.background = "dark"
 
 -- Decrease update time
 o.timeoutlen = 1000
